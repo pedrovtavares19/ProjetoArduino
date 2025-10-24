@@ -35,7 +35,11 @@ Arquivo README: documento explicativo que descreve a lógica de funcionamento do
 resultados obtidos e possíveis melhorias futuras.
 
 
-3-
+3- OBJETIVO DO REPOSITÓRIO
+
+O propósito principal de um repositório no GitHub é armazenar, gerenciar e controlar as versões de um projeto,
+como um projeto de software. Ele serve como um local centralizado onde todo o código, arquivos, documentação e histórico de revisões são guardados. 
+Mas no caso desse projeto acaba sendo para enviar e submeter de forma organizada um trabalho escolar
 
 
 
