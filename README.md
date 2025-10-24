@@ -18,9 +18,21 @@ Enviaria um programa (uma "receita" com instruções) para o Arduino pelo comput
 O programa diria: "se o sensor detectar pouca luz, acenda a lâmpada
 
 
-2-
+2- EXPLICAÇÃO DA ESTRUTURA DE PASTAS:
 
+A estrutura deste trabalho foi organizada em pastas, sendo que cada pasta representa um projeto individual desenvolvido no ambiente Tinkercad durante o curso de Informática.
 
+Dentro de cada pasta estão contidos os seguintes elementos:
+
+Código-fonte: arquivo contendo o código do Arduino utilizado no Tinkercad, desenvolvido em linguagem C++. Esse código define o comportamento do circuito, controlando sensores, 
+atuadores e demais componentes eletrônicos conforme a lógica proposta. O código foi estruturado de forma clara e comentada, facilitando a compreensão do funcionamento e da sequência 
+lógica das instruções.
+
+Imagem do circuito (.png): captura exportada diretamente do Tinkercad, mostrando o circuito montado, a disposição dos componentes eletrônicos e suas conexões. Essa imagem serve como 
+representação visual do projeto, auxiliando na análise do funcionamento prático.
+
+Arquivo README: documento explicativo que descreve a lógica de funcionamento do projeto e os componentes utilizados. O README também apresenta observações sobre os testes realizados, 
+resultados obtidos e possíveis melhorias futuras.
 
 
 3-
