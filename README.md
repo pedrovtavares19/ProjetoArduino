@@ -3,7 +3,7 @@ projeto de arduino 4º bimestre
 
 
 
-DEFINIÇÃO DE ARDUÍNO
+1- DEFINIÇÃO DE ARDUÍNO:
 Arduino é uma plataforma de prototipagem eletrônica de código aberto, 
 composta por um hardware (uma placa com microcontrolador) e um software (ambiente de desenvolvimento - IDE), 
 que permite criar projetos interativos de forma barata e acessível. 
@@ -18,4 +18,17 @@ Enviaria um programa (uma "receita" com instruções) para o Arduino pelo comput
 O programa diria: "se o sensor detectar pouca luz, acenda a lâmpada
 
 
+2-
 
+
+
+
+3-
+
+
+
+4- AUTORES:
+Beatriz Antunes
+Matheus Victor da Silva Santos
+Pedro Vasconcellos Tavares
+Sofia Pintor
