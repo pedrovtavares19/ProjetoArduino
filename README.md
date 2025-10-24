@@ -25,7 +25,7 @@ A estrutura deste trabalho foi organizada em pastas, sendo que cada pasta repres
 Dentro de cada pasta estão contidos os seguintes elementos:
 
 Código-fonte: arquivo contendo o código do Arduino utilizado no Tinkercad, desenvolvido em linguagem C++. Esse código define o comportamento do circuito, controlando sensores, 
-atuadores e demais componentes eletrônicos conforme a lógica proposta. O código foi estruturado de forma clara e comentada, facilitando a compreensão do funcionamento e da sequência 
+atuadores e demais componentes eletrônicos conforme a lógica proposta. O código foi estruturado de forma clara, facilitando a compreensão do funcionamento e da sequência 
 lógica das instruções.
 
 Imagem do circuito (.png): captura exportada diretamente do Tinkercad, mostrando o circuito montado, a disposição dos componentes eletrônicos e suas conexões. Essa imagem serve como 
@@ -41,6 +41,7 @@ resultados obtidos e possíveis melhorias futuras.
 
 4- AUTORES:
 Beatriz Antunes
+Bruna Miyuki Yasuda
 Matheus Victor da Silva Santos
 Pedro Vasconcellos Tavares
 Sofia Pintor
